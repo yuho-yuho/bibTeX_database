@@ -1,5 +1,5 @@
 # BibTeX-Database
-A personal database for quick addition of citations.
+A personal database for painless adding of citations.
 
 This is not an interface to OverLeaf but only for local usage. 
 
