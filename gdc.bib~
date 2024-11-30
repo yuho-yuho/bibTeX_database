@@ -822,26 +822,7 @@ year = {2012}
 }
 
 
-@misc{Rowland2023,
-  author       = {Rowland, D., Garcia-Sage, K., Kepko, L., Bell, J., Andersson, L., Andersson, P., Moldwin, M., Gershman, D., and Benna, M},
-  title        = {NASA’s Geospace Dynamics Constellation (GDC) mission: a multi-spacecraft mission to explore the ionosphere-thermosphere},
-  howpublished = {EGU General Assembly 2023, Vienna, Austria},
-  year         = {2023},
-  doi          = {https://doi.org/10.5194/egusphere-egu23-17588},
-  note         = {23–28 Apr 2023, EGU23-17588},
-}
 
-@ARTICLE{1161901,
-  author={Welch, P.},
-  journal={IEEE Transactions on Audio and Electroacoustics}, 
-  title={The use of fast Fourier transform for the estimation of power spectra: A method based on time averaging over short, modified periodograms}, 
-  year={1967},
-  volume={15},
-  number={2},
-  pages={70-73},
-  keywords={Fast Fourier transforms;Testing;Fourier transforms;Shape;Aging;Time measurement;Demodulation;Stochastic processes;Reactive power},
-  doi={10.1109/TAU.1967.1161901}
-}
 
 
 
